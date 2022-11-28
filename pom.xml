@@ -19,8 +19,8 @@
 <profiles>
     <profile>
         <modules>
-            <module>../my-util</module>
-            <module>../my-server</module>           
+            <module>server</module>
+            <module>webapp</module>           
         </modules>
     </profile>
 </profiles>
